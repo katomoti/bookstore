@@ -15,5 +15,8 @@
         <module>bookstore-order</module>
         <module>bookstore-product</module>
         <module>bookstore-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>bookstore-common</module>
     </modules>
 </project>
