@@ -18,5 +18,6 @@
         <module>renren-fast</module>
         <module>renren-generator</module>
         <module>bookstore-common</module>
+        <module>bookstore-gateway</module>
     </modules>
 </project>
